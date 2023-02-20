@@ -21,7 +21,6 @@
 
 .main {
     background-color: var(--Verydarkblue);
-    height: 100vh;
     padding: 2rem;
     display: flex;
     align-items: center;
